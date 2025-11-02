@@ -636,8 +636,8 @@ const Index = () => {
     {
      title: "Mini GPS Tracker",
      description: "Bluetooth locator compatible with iOS and Android for pet safety.",
-     url: "https://s.click.aliexpress.com/e/_c4qNA9BN",
-     image: "https://sae01.alicdn.com/kf/Sd3295e086fda4420bbeaf74b4137bbc3W.jpg_80x80.jpg",
+     url: "https://s.click.aliexpress.com/e/_c3WKV7WL",
+     image: "https://ae01.alicdn.com/kf/Sd3295e086fda4420bbeaf74b4137bbc3W.jpg_80x80.jpg",
      category: "Tech",
     },
 
